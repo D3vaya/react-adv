@@ -6,7 +6,7 @@ import {
 } from "../components/";
 
 import "../styles/custom-styles.css";
-import { useShoppingPage } from "../hooks/useShopping";
+import { useShoppingPage } from "../hooks/useShoppingCart";
 import { products } from "../data/product";
 
 export const ShoppingPage = () => {
